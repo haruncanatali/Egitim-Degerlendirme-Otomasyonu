@@ -1,0 +1,11 @@
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\bin\Debug\netcoreapp3.1\Egitim.Entities.deps.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\bin\Debug\netcoreapp3.1\Egitim.Entities.runtimeconfig.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\bin\Debug\netcoreapp3.1\Egitim.Entities.runtimeconfig.dev.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\bin\Debug\netcoreapp3.1\Egitim.Entities.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\bin\Debug\netcoreapp3.1\Egitim.Entities.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\obj\Debug\netcoreapp3.1\Egitim.Entities.AssemblyInfoInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\obj\Debug\netcoreapp3.1\Egitim.Entities.AssemblyInfo.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\obj\Debug\netcoreapp3.1\Egitim.Entities.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\obj\Debug\netcoreapp3.1\Egitim.Entities.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\obj\Debug\netcoreapp3.1\Egitim.Entities.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Entities\obj\Debug\netcoreapp3.1\Egitim.Entities.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\bin\Debug\netcoreapp3.1\Egitim.Entities.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.csprojAssemblyReference.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.AssemblyInfoInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.AssemblyInfo.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\bin\Debug\netcoreapp3.1\Egitim.DataAccess.deps.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\bin\Debug\netcoreapp3.1\Egitim.DataAccess.runtimeconfig.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\bin\Debug\netcoreapp3.1\Egitim.DataAccess.runtimeconfig.dev.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\bin\Debug\netcoreapp3.1\Egitim.DataAccess.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\bin\Debug\netcoreapp3.1\Egitim.DataAccess.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\bin\Debug\netcoreapp3.1\Egitim.Entities.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.csproj.CopyComplete
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.DataAccess\obj\Debug\netcoreapp3.1\Egitim.DataAccess.genruntimeconfig.cache

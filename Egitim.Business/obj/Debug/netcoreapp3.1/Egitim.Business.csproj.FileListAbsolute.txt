@@ -1,0 +1,17 @@
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.DataAccess.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.Entities.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.csprojAssemblyReference.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.AssemblyInfoInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.AssemblyInfo.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.Business.deps.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.Business.runtimeconfig.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.Business.runtimeconfig.dev.json
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.Business.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.Business.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.DataAccess.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\bin\Debug\netcoreapp3.1\Egitim.Entities.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.csproj.CopyComplete
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.dll
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Egitim Degerlendirme Otomasyonu\Egitim\Egitim.Business\obj\Debug\netcoreapp3.1\Egitim.Business.genruntimeconfig.cache

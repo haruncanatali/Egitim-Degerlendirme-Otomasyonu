@@ -1,0 +1,413 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.API\\Egitim.API.csproj": {}
+  },
+  "projects": {
+    "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.API\\Egitim.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.API\\Egitim.API.csproj",
+        "projectName": "Egitim.API",
+        "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.API\\Egitim.API.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\DevExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Business\\Egitim.Business.csproj": {
+                "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Business\\Egitim.Business.csproj"
+              },
+              "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\Egitim.DataAccess.csproj": {
+                "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\Egitim.DataAccess.csproj"
+              },
+              "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj": {
+                "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Business\\Egitim.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Business\\Egitim.Business.csproj",
+        "projectName": "Egitim.Business",
+        "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Business\\Egitim.Business.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\DevExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\Egitim.DataAccess.csproj": {
+                "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\Egitim.DataAccess.csproj"
+              },
+              "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj": {
+                "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\Egitim.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\Egitim.DataAccess.csproj",
+        "projectName": "Egitim.DataAccess",
+        "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\Egitim.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\DevExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj": {
+                "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj",
+        "projectName": "Egitim.Entities",
+        "projectPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\Egitim.Entities.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "E:\\derscalismalarim\\GitHub Ornek Gelistirme Klasoru\\Egitim Degerlendirme Otomasyonu\\Egitim\\Egitim.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\DevExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
