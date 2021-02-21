@@ -1,0 +1,82 @@
+<div class="media mt-3">
+  <img class="mr-3 mt-5" src="{{okul.fotoBaglantisi}}" width="150" height="150" alt="Generic placeholder image">
+  <div class="media-body">
+    <h5 class="mt-0">{{okul.okulAdi}}</h5>
+    <p>&nbsp;&nbsp;{{okul.okulAciklama}}</p>
+    <p><span class="h5">Okul Puanı&nbsp;&nbsp;</span><ngb-rating [max]="5" [(rate)]="currentRate" [readonly]="true"></ngb-rating>
+    </p>
+  </div>
+</div>
+<h4 class="display-4 text-center mt-5">Okula Ait Yorumlar</h4>
+
+<div class="row d-flex justify-content-center">
+
+    <div class="card mt-3" style="width: 75%;">
+        <ul class="list-group list-group-flush">
+          <li *ngFor="let item of okul.yorumlar" class="list-group-item">
+            <div class="media">
+              <img class="mr-3" src="../../assets/yorum.png" height="50" width="50" alt="Generic placeholder image">
+              <div class="media-body">
+                <h5 class="mt-0">{{item.ad}} {{item.soyad}}</h5>
+                <p>{{item.yorumIcerik}}</p>
+                <p><span class="h5">Puan&nbsp;&nbsp;</span><ngb-rating [max]="5" [(rate)]="item.puan" [readonly]="true"></ngb-rating></p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+
+  <div class="card mt-5 border-0" style="width: 75%;">
+    <h4 class="h4 text-center">Yorum Yapın</h4>
+    <form #yorumFormu="ngForm" (submit)="yorumYap(yorumFormu)">
+      <div class="row">
+        <div class="col-md-4">
+          <label for="ad">Adınız</label>
+          <input type="text" class="form-control" #ad="ngModel" [(ngModel)]="yorum.ad" id="ad" name="ad" required>
+        </div>
+        <div class="col-md-4">
+          <label for="soyad">Soyadınız</label>
+          <input type="text" class="form-control" #soyad="ngModel" [(ngModel)]="yorum.soyad" id="soyad" name="soyad"
+            required>
+        </div>
+        <div class="col-md-4">
+          <label for="mail">Mail Adresiniz</label>
+          <input type="text" class="form-control" #mail="ngModel" [(ngModel)]="yorum.mail" id="mail" name="mail"
+            required>
+        </div>
+      </div>
+      <div class="row mt-3">
+        <div class="col-md-4">
+          <label for="puan" class="mr-5">Puanınız</label>
+          <ngb-rating style="font-size: 35px;" #puan="ngModel" [(ngModel)]="yorum.puan" id="puan" name="puan" [max]="5" [(rate)]="yorum.puan" [readonly]="false"></ngb-rating>
+        </div>
+        <div class="col-md-8">
+          <label for="yorumIcerik">Yorumunuz</label>
+          <textarea cols="20" rows="3" class="form-control" #yorumIcerik="ngModel" [(ngModel)]="yorum.yorumIcerik" id="yorumIcerik"
+            name="yorumIcerik" required></textarea>
+        </div>
+      </div>
+      <div class="row d-flex justify-content-center mt-3">
+          <button type="submit" class="btn btn-primary">Yorumunu Gönder</button>
+      </div>
+    </form>
+  </div>
+  
+</div>
+
+<h4 class="display-4 text-center mt-5">Okulda Görevli Öğretmenler</h4>
+<div class="row d-flex justify-content-center">
+  <div *ngFor="let item of okul.ogretmenler" class="card ml-3 mb-3 mt-2" style="width: 16rem;">
+    <img src="{{item.fotoBaglantisi}}" height="250" class="card-img-top" alt="{{item.ogretmenAdSoyad}}">
+    <div class="card-body">
+      <h5 class="card-title text-center">{{item.ogretmenAdSoyad}}</h5>
+      <p><span style="font-weight: bold; color: #34465d;">Pozisyon</span>:&nbsp;{{item.ogretmenPozisyon}}</p>
+      <p><span style="font-weight: bold; color: #34465d;">Branş</span>:&nbsp;{{item.ogretmenBrans}}</p>
+    </div>
+    <div class="text-center mb-0">
+      <button class="btn btn-sm btn-outline-primary" (click)="ogretmeneGit(item.id)"><span
+          style="font-weight: bold;">İncele</span></button>
+    </div>
+  </div>
+</div>

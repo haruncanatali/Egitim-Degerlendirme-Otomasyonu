@@ -1,0 +1,10 @@
+.navLink{
+    color: #FFF9FD;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navLink:hover{
+    color: red;
+    transition: 0.6s;
+}
